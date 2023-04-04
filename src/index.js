@@ -32,7 +32,6 @@ search.addWidgets([
       }),
     configure({
         hitsPerPage: 8,
-        sumOrFiltersScores: 'true',
       }),
     panel({
         templates: { header: 'brand' },
